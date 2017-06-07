@@ -1,0 +1,23 @@
+{
+  "name": "jsonfeed-generator",
+  "version": "0.0.1",
+  "description": "JSON feed generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogra/jsonfeed-generator.git"
+  },
+  "keywords": [
+    "JSON",
+    "feed"
+  ],
+  "author": "Toshiyuki Ogura <tos.ogura@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogra/jsonfeed-generator/issues"
+  },
+  "homepage": "https://github.com/ogra/jsonfeed-generator#readme"
+}
